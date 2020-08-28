@@ -8,4 +8,4 @@ Use abalone dataset as an example:
 
 For some datasets that already have train and test parts. No need for 4-folds train-test partition. The validation_train and validation_test also shrink to 4 rows.
 
-[Download](https://drive.google.com/open?id=1Jtd3OlmdjQMuAxWUIQqGgpavzLCUhmdq)
+[Download](https://drive.google.com/file/d/1jbE6tlX23lOFibRaqqaJQhGOJGfyWQAb/view?usp=sharing)
