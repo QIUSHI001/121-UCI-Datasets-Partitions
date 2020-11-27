@@ -1,4 +1,4 @@
-# 121-UCI-Datasets-Partitions
+# 121-UCI-Datasets and Text datasets Partitions
 
 Use abalone dataset as an example: 
 - abalone are the original samples
